@@ -1,0 +1,22 @@
+# 환경 변수
+.env
+
+# 데이터 (개인 채팅 기록)
+data/
+chats.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
